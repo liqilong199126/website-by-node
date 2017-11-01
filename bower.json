@@ -1,0 +1,21 @@
+{
+  "name": "website-by-node",
+  "description": "",
+  "main": "",
+  "authors": [
+    "liqilong <634505724@qq.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/liqilong199126/website-by-node",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
